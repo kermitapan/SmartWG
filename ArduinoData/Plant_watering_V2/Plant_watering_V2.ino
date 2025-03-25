@@ -1,5 +1,3 @@
-// Include necessary libraries
-// #include <RtcDS1302.h>
 
 // Define pins for sensors and actuators
 const int ultrasoundTriggerPin = 7;
